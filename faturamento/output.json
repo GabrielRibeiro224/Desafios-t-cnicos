@@ -1,0 +1,7 @@
+{
+    "saida_de_faturamento": [
+        {"Menor valor de faturamento": "R$373.78"},
+        {"Maior valor de faturamento": "R$48924.24"},
+        {"Número de dias com faturamento acima da média": 10}
+    ]
+}
